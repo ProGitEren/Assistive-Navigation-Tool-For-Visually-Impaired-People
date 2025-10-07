@@ -5,7 +5,7 @@ This repository represents my collaboration work on the project
 developed together with [(EremOnay)](https://github.com/EremOnay).
 
 All source code, experiments, and implementation details are hosted in the main repository:
-🔗 **[Assistive-Navigation-Tool-for-Visually-Impaired-People](https://github.com/EremOnay/Assistive-Navigation-Tool-for-Visually-Impaired-Peopl)**
+🔗 **[Assistive-Navigation-Tool-for-Visually-Impaired-People](https://github.com/EremOnay/Assistive-Navigation-Tool-for-Visually-Impaired-People-)**
 
 ---
 
@@ -30,4 +30,4 @@ Please visit the main repository for:
 - Implementation details  
 - Demo videos and documentation
 
-👉 **[Go to the main repository →](https://github.com/EremOnay/Assistive-Navigation-Tool-for-Visually-Impaired-Peopl)**
+👉 **[Go to the main repository →](https://github.com/EremOnay/Assistive-Navigation-Tool-for-Visually-Impaired-People-)**
