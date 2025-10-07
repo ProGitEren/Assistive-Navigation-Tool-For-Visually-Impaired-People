@@ -2,7 +2,7 @@
 
 This repository represents my collaboration work on the project  
 **“Assistive Navigation Tool for Visually Impaired People”**,  
-developed together with [Eren Gökmenler (EremOnay)](https://github.com/EremOnay).
+developed together with [(EremOnay)](https://github.com/EremOnay).
 
 All source code, experiments, and implementation details are hosted in the main repository:
 🔗 **[Assistive-Navigation-Tool-for-Visually-Impaired-People](https://github.com/EremOnay/Assistive-Navigation-Tool-for-Visually-Impaired-Peopl)**
